@@ -1,0 +1,16 @@
+{
+	"description": "REST Server for the CodeIgniter framework",
+	"name": "ws_prueba_ingreso/codeigniter-restserver",
+	"type": "project",
+	"homepage": "http://127.0.0.1/ws_prueba_ingreso/",
+    "authors": [
+		{
+			"name": "Antonio Cruz Arias",
+			"role": "Developer"
+		}
+	],
+	"license": "MIT",
+	"support": {
+		"source": "http://127.0.0.1/ws_prueba_ingreso/"
+	}
+}
